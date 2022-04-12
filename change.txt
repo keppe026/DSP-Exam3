@@ -1,2 +1,3 @@
+I have further changed the change file, per the instructions in challange 1.
 This is the change I have made for step two of the DSP exam 3. I hope you
 like this change that I have made :)
